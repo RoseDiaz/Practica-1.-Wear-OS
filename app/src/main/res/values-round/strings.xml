@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="saludo">Lorem Ipsum is simply dummy text of the printing and
+        typesetting industry. </string>
+</resources>
