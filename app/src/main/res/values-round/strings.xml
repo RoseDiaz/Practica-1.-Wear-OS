@@ -1,5 +1,10 @@
 <resources>
     <string name="hello_world">Hello Round World!</string>
     <string name="saludo">Lorem Ipsum is simply dummy text of the printing and
-        typesetting industry. </string>
+        type setting industry.
+        Lorem Ipsum is simply dummy text of the printing and type setting industry.
+        Lorem Ipsum is simply dummy text of the printing and
+        type setting industry.
+        Lorem Ipsum is simply dummy text of the printing and
+        typesetting industry.</string>
 </resources>
